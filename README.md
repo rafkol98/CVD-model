@@ -4,6 +4,3 @@ Cardiovascular Disease (CVD) is the number one cause of death worldwide, killing
 
 Web platform development:
 https://github.com/rafkol98/CVD-web
-
-The developed platform is available at:
-https://cardio-ai.herokuapp.com/
